@@ -25,7 +25,6 @@ This test should be completed in 2-3 hours.
 - Performance
 - Short explanation paragraph: please briefly explain the thought process behind your work.
 
-**Bonus**
-
-- Document your code
-- Ability to make sensible assumptions - We know that the test is short, it's not enough time to develop a product ready for production. Explain to us what you would do if you have more time.
+#### Bonus
+  - Document your code
+  - Ability to make sensible assumptions - We know that the test is short, it's not enough time to develop a product ready for production. Explain to us what you would do if you have more time.
