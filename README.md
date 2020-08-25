@@ -1,29 +1,31 @@
-# README #
+# iGotcha Media Code Challenge
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This test should be completed in 2-3 hours.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Requirements
 
-### How do I get set up? ###
+- Use the following cocktail recipe API to design an application: (https://www.thecocktaildb.com/api.php).
+- Design an application with a search function to search recipes by name or by ingredient.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+## Languages & Library
 
-### Who do I talk to? ###
+- Ruby or Javascript(node.js)
+- Vue
 
-* Repo owner or admin
-* Other community or team contact
+
+## Evaluation
+
+- Solution correctness
+- Application should be responsive
+- Developer experience (how easy it is to run your solution locally)
+- Code style and cleanliness
+- Performance
+- Short explanation paragraph: please briefly explain the thought process behind your work.
+
+**Bonus**
+
+- Document your code
+- Ability to make sensible assumptions - We know that the test is short, it's not enough time to develop a product ready for production. Explain to us what you would do if you have more time.
