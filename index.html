@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src="index.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+        <h2>Recipe Searcher</h2>
+        <input type="text" placeholder={{messageName}}  v-model="searchName"> <button v-on:click="searchByName">Search</button>
+        <input type="text" placeholder={{messageIngredient}} v-model="searchIngredient"> <button v-on:click="searchByIngredient">Search</button>
+        </div>
+    </body>
+</html>

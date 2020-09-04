@@ -1,0 +1,25 @@
+{
+  "name": "igotachamedia",
+  "version": "1.0.0",
+  "description": "test challenge for igotachamedia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/igotchamedia/fullstack-challenge1/src/master/"
+  },
+  "author": "thiago monteiro barbosa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "fs": "0.0.1-security",
+    "server": "^1.0.30",
+    "vue": "^2.6.12"
+  }
+}

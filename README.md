@@ -24,6 +24,8 @@ This test should be completed in 2-3 hours.
 - Code style and cleanliness
 - Performance
 - Short explanation paragraph: please briefly explain the thought process behind your work.
+A: First, I tried to connect to the api and check its response. Then I started working the actual functions i would use, and created the index.html and .js for it. I wish I could have done more in these 3 hours.
+
 
 #### Bonus
   - Document your code
